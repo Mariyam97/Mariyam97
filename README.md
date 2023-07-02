@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bibi Mariyam Sardar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align=”right” alt=”Coding” width=”400” src=”https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif”>
-
+</img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariyam97&label=Profile%20views&color=0e75b6&style=flat" alt="mariyam97" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariyam97" alt="mariyam97" /></a> </p>
